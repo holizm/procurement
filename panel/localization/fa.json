@@ -1,0 +1,18 @@
+{
+    "procurementDescription": "توضیحات",
+    "procurementNeededDate": "تاریخ نیاز",
+    "procurementNumber": "شماره",
+    "procurementOrderDate": "تاریخ سفارش",
+    "procurementProcurement": "تدارکات",
+    "procurementPurchaseOrder": "سفارش خرید",
+    "procurementPurchaseOrders": "سفارش‌های خرید",
+    "procurementPurchaseRequest": "درخواست خرید",
+    "procurementPurchaseRequests": "درخواست‌های خرید",
+    "procurementQuotationDate": "تاریخ پیشنهاد",
+    "procurementRequestedDate": "تاریخ درخواست",
+    "procurementStatus": "وضعیت",
+    "procurementSupplier": "تأمین‌کننده",
+    "procurementSupplierQuotation": "پیشنهاد تأمین‌کننده",
+    "procurementSupplierQuotations": "پیشنهادهای تأمین‌کنندگان",
+    "procurementTotal": "مجموع"
+}

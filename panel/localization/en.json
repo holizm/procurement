@@ -1,0 +1,18 @@
+{
+    "procurementDescription": "Description",
+    "procurementNeededDate": "Needed date",
+    "procurementNumber": "Number",
+    "procurementOrderDate": "Order date",
+    "procurementProcurement": "Procurement",
+    "procurementPurchaseOrder": "Purchase order",
+    "procurementPurchaseOrders": "Purchase orders",
+    "procurementPurchaseRequest": "Purchase request",
+    "procurementPurchaseRequests": "Purchase requests",
+    "procurementQuotationDate": "Quotation date",
+    "procurementRequestedDate": "Requested date",
+    "procurementStatus": "Status",
+    "procurementSupplier": "Supplier",
+    "procurementSupplierQuotation": "Supplier quotation",
+    "procurementSupplierQuotations": "Supplier quotations",
+    "procurementTotal": "Total"
+}

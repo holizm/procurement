@@ -1,0 +1,72 @@
+purchaseRequestStatus options
+    draft
+    submitted
+    approved
+    rejected
+    ordered
+    cancelled
+supplierQuotationStatus options
+    received
+    accepted
+    rejected
+    expired
+purchaseOrderStatus options
+    draft
+    issued
+    partiallyReceived
+    received
+    cancelled
+purchaseRequest
+    title
+    number
+    requestedDate
+    neededDate optional
+    purchaseRequestStatus
+    description optional
+    unique number
+purchaseRequestItem
+    purchaseRequest
+    item
+    quantity realNumber
+    description optional
+supplierQuotation
+    number
+    supplier
+    purchaseRequest
+    quotationDate
+    expiryDate optional
+    supplierQuotationStatus
+    total realNumber
+    currency
+    unique supplier number
+supplierQuotationItem
+    supplierQuotation
+    purchaseRequestItem
+    quantity realNumber
+    unitPrice realNumber
+purchaseOrder
+    number
+    supplier
+    supplierQuotation optional
+    orderDate
+    expectedDate optional
+    purchaseOrderStatus
+    total realNumber
+    currency
+    unique number
+purchaseOrderItem
+    purchaseOrder
+    item
+    quantity realNumber
+    unitPrice realNumber
+    receivedQuantity realNumber optional
+goodsReceipt
+    number
+    purchaseOrder
+    receiptDate
+    description optional
+    unique number
+goodsReceiptItem
+    goodsReceipt
+    purchaseOrderItem
+    quantity realNumber
