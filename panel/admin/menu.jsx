@@ -15,6 +15,7 @@ export default [
             },
         ],
         icon: 'shoppingCartCheckout',
+        path: '/procurement',
         title: 'procurementProcurement',
     },
 ]
