@@ -1,5 +1,24 @@
 {
-    "procurementPurchaseOrder": "Purchase order",
-    "procurementStatus": "Status",
-    "procurementTotal": "Total"
+    "common": {
+        "purchaseOrder": "Purchase order",
+        "status": "Status",
+        "total": "Total"
+    },
+    "api": {},
+    "panel": {
+        "description": "Description",
+        "neededDate": "Needed date",
+        "number": "Number",
+        "orderDate": "Order date",
+        "procurement": "Procurement",
+        "purchaseOrders": "Purchase orders",
+        "purchaseRequest": "Purchase request",
+        "purchaseRequests": "Purchase requests",
+        "quotationDate": "Quotation date",
+        "requestedDate": "Requested date",
+        "supplier": "Supplier",
+        "supplierQuotation": "Supplier quotation",
+        "supplierQuotations": "Supplier quotations"
+    },
+    "site": {}
 }

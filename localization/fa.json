@@ -1,5 +1,24 @@
 {
-    "procurementPurchaseOrder": "سفارش خرید",
-    "procurementStatus": "وضعیت",
-    "procurementTotal": "مجموع"
+    "common": {
+        "purchaseOrder": "سفارش خرید",
+        "status": "وضعیت",
+        "total": "مجموع"
+    },
+    "api": {},
+    "panel": {
+        "description": "توضیحات",
+        "neededDate": "تاریخ نیاز",
+        "number": "شماره",
+        "orderDate": "تاریخ سفارش",
+        "procurement": "تدارکات",
+        "purchaseOrders": "سفارش‌های خرید",
+        "purchaseRequest": "درخواست خرید",
+        "purchaseRequests": "درخواست‌های خرید",
+        "quotationDate": "تاریخ پیشنهاد قیمت",
+        "requestedDate": "تاریخ درخواست",
+        "supplier": "تأمین‌کننده",
+        "supplierQuotation": "پیشنهاد قیمت تأمین‌کننده",
+        "supplierQuotations": "پیشنهادهای قیمت تأمین‌کنندگان"
+    },
+    "site": {}
 }
