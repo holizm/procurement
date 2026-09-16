@@ -1,6 +1,5 @@
 {
     "common": {
-        "purchaseOrder": "Purchase order",
         "total": "Total",
         "neededDate": "Needed date",
         "orderDate": "Order date",
@@ -10,7 +9,6 @@
         "purchaseRequests": "Purchase requests",
         "quotationDate": "Quotation date",
         "requestedDate": "Requested date",
-        "supplierQuotation": "Supplier quotation",
         "supplierQuotations": "Supplier quotations"
     }
 }
