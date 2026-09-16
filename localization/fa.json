@@ -2,10 +2,7 @@
     "common": {
         "purchaseOrder": "سفارش خرید",
         "status": "وضعیت",
-        "total": "مجموع"
-    },
-    "api": {},
-    "panel": {
+        "total": "مجموع",
         "description": "توضیحات",
         "neededDate": "تاریخ نیاز",
         "number": "شماره",
@@ -19,6 +16,5 @@
         "supplier": "تأمین‌کننده",
         "supplierQuotation": "پیشنهاد قیمت تأمین‌کننده",
         "supplierQuotations": "پیشنهادهای قیمت تأمین‌کنندگان"
-    },
-    "site": {}
+    }
 }
