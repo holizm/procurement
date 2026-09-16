@@ -1,11 +1,8 @@
 {
     "common": {
         "purchaseOrder": "سفارش خرید",
-        "status": "وضعیت",
         "total": "مجموع",
-        "description": "توضیحات",
         "neededDate": "تاریخ نیاز",
-        "number": "شماره",
         "orderDate": "تاریخ سفارش",
         "procurement": "تدارکات",
         "purchaseOrders": "سفارش‌های خرید",
@@ -13,7 +10,6 @@
         "purchaseRequests": "درخواست‌های خرید",
         "quotationDate": "تاریخ پیشنهاد قیمت",
         "requestedDate": "تاریخ درخواست",
-        "supplier": "تأمین‌کننده",
         "supplierQuotation": "پیشنهاد قیمت تأمین‌کننده",
         "supplierQuotations": "پیشنهادهای قیمت تأمین‌کنندگان"
     }
