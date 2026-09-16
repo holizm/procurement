@@ -32,7 +32,7 @@ const inputs = <>
             'ordered',
             'cancelled',
         ]}
-        placeholder='procurementStatus'
+        placeholder='stateMachinesState'
         property='purchaseRequestStatus'
         required
     />

@@ -8,7 +8,7 @@ const headers = <>
     <th start>procurementNumber</th>
     <th>procurementSupplier</th>
     <th>procurementTotal</th>
-    <th>procurementStatus</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>

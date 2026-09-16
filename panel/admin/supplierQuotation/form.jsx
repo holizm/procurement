@@ -29,7 +29,7 @@ const inputs = <>
             'rejected',
             'expired',
         ]}
-        placeholder='procurementStatus'
+        placeholder='stateMachinesState'
         property='supplierQuotationStatus'
         required
     />

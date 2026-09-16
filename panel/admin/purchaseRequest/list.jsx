@@ -10,7 +10,7 @@ const headers = <>
     <th start>procurementPurchaseRequest</th>
     <th>procurementNumber</th>
     <th>procurementRequestedDate</th>
-    <th>procurementStatus</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
