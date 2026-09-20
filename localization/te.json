@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "మొత్తం",
+        "neededDate": "అవసరమైన తేదీ",
+        "orderDate": "ఆర్డర్ తేదీ",
+        "procurement": "సేకరణ",
+        "purchaseOrders": "కొనుగోలు ఆర్డర్లు",
+        "purchaseRequest": "కొనుగోలు అభ్యర్థన",
+        "purchaseRequests": "కొనుగోలు అభ్యర్థనలు",
+        "quotationDate": "కొటేషన్ తేదీ",
+        "requestedDate": "అభ్యర్థించిన తేదీ",
+        "supplierQuotations": "సరఫరాదారు కొటేషన్లు"
+    }
+}

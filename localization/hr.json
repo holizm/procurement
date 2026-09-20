@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Ukupno",
+        "neededDate": "Datum potrebe",
+        "orderDate": "Datum narudžbe",
+        "procurement": "Nabava",
+        "purchaseOrders": "Narudžbenice",
+        "purchaseRequest": "Zahtjev za nabavu",
+        "purchaseRequests": "Zahtjevi za nabavu",
+        "quotationDate": "Datum ponude",
+        "requestedDate": "Traženi datum",
+        "supplierQuotations": "Ponude dobavljača"
+    }
+}

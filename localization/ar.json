@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "الإجمالي",
+        "neededDate": "تاريخ الاحتياج",
+        "orderDate": "تاريخ الطلب",
+        "procurement": "المشتريات",
+        "purchaseOrders": "أوامر الشراء",
+        "purchaseRequest": "طلب شراء",
+        "purchaseRequests": "طلبات الشراء",
+        "quotationDate": "تاريخ عرض السعر",
+        "requestedDate": "التاريخ المطلوب",
+        "supplierQuotations": "عروض أسعار الموردين"
+    }
+}

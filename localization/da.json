@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "I alt",
+        "neededDate": "Behovsdato",
+        "orderDate": "Bestillingsdato",
+        "procurement": "Indkøb",
+        "purchaseOrders": "Indkøbsordrer",
+        "purchaseRequest": "Indkøbsanmodning",
+        "purchaseRequests": "Indkøbsanmodninger",
+        "quotationDate": "Tilbudsdato",
+        "requestedDate": "Ønsket dato",
+        "supplierQuotations": "Leverandørtilbud"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "মোট",
+        "neededDate": "প্রয়োজনের তারিখ",
+        "orderDate": "অর্ডারের তারিখ",
+        "procurement": "ক্রয় ব্যবস্থাপনা",
+        "purchaseOrders": "ক্রয়াদেশ",
+        "purchaseRequest": "ক্রয় অনুরোধ",
+        "purchaseRequests": "ক্রয় অনুরোধসমূহ",
+        "quotationDate": "দরপত্রের তারিখ",
+        "requestedDate": "অনুরোধকৃত তারিখ",
+        "supplierQuotations": "সরবরাহকারীর দরপত্রসমূহ"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "மொத்தம்",
+        "neededDate": "தேவைப்படும் தேதி",
+        "orderDate": "ஆர்டர் தேதி",
+        "procurement": "கொள்முதல்",
+        "purchaseOrders": "கொள்முதல் ஆணைகள்",
+        "purchaseRequest": "கொள்முதல் கோரிக்கை",
+        "purchaseRequests": "கொள்முதல் கோரிக்கைகள்",
+        "quotationDate": "விலைப்புள்ளி தேதி",
+        "requestedDate": "கோரப்பட்ட தேதி",
+        "supplierQuotations": "விநியோகஸ்தர் விலைப்புள்ளிகள்"
+    }
+}

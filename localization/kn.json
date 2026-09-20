@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "ಒಟ್ಟು",
+        "neededDate": "ಅಗತ್ಯವಿರುವ ದಿನಾಂಕ",
+        "orderDate": "ಆರ್ಡರ್ ದಿನಾಂಕ",
+        "procurement": "ಖರೀದಿ ನಿರ್ವಹಣೆ",
+        "purchaseOrders": "ಖರೀದಿ ಆದೇಶಗಳು",
+        "purchaseRequest": "ಖರೀದಿ ವಿನಂತಿ",
+        "purchaseRequests": "ಖರೀದಿ ವಿನಂತಿಗಳು",
+        "quotationDate": "ದರಪಟ್ಟಿ ದಿನಾಂಕ",
+        "requestedDate": "ವಿನಂತಿಸಿದ ದಿನಾಂಕ",
+        "supplierQuotations": "ಪೂರೈಕೆದಾರರ ದರಪಟ್ಟಿಗಳು"
+    }
+}

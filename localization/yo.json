@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Àpapọ̀",
+        "neededDate": "Ọjọ́ tí a nílò",
+        "orderDate": "Ọjọ́ ìbéèrè ọjà",
+        "procurement": "Rírà ọjà",
+        "purchaseOrders": "Àwọn àṣẹ ìràjà",
+        "purchaseRequest": "Ìbéèrè ìràjà",
+        "purchaseRequests": "Àwọn ìbéèrè ìràjà",
+        "quotationDate": "Ọjọ́ àkọsílẹ̀ iye owó",
+        "requestedDate": "Ọjọ́ tí a béèrè",
+        "supplierQuotations": "Àwọn àkọsílẹ̀ iye owó olùpèsè"
+    }
+}

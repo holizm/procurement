@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Tổng cộng",
+        "neededDate": "Ngày cần hàng",
+        "orderDate": "Ngày đặt hàng",
+        "procurement": "Thu mua",
+        "purchaseOrders": "Đơn mua hàng",
+        "purchaseRequest": "Yêu cầu mua hàng",
+        "purchaseRequests": "Yêu cầu mua hàng",
+        "quotationDate": "Ngày báo giá",
+        "requestedDate": "Ngày yêu cầu",
+        "supplierQuotations": "Báo giá của nhà cung cấp"
+    }
+}

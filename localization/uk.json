@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Усього",
+        "neededDate": "Дата потреби",
+        "orderDate": "Дата замовлення",
+        "procurement": "Закупівлі",
+        "purchaseOrders": "Замовлення на закупівлю",
+        "purchaseRequest": "Заявка на закупівлю",
+        "purchaseRequests": "Заявки на закупівлю",
+        "quotationDate": "Дата пропозиції",
+        "requestedDate": "Запитана дата",
+        "supplierQuotations": "Пропозиції постачальників"
+    }
+}

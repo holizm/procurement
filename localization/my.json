@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "စုစုပေါင်း",
+        "neededDate": "လိုအပ်သည့်ရက်",
+        "orderDate": "အော်ဒါတင်ရက်",
+        "procurement": "ဝယ်ယူရေး",
+        "purchaseOrders": "ဝယ်ယူမှုအော်ဒါများ",
+        "purchaseRequest": "ဝယ်ယူရန်တောင်းဆိုချက်",
+        "purchaseRequests": "ဝယ်ယူရန်တောင်းဆိုချက်များ",
+        "quotationDate": "ဈေးနှုန်းကမ်းလှမ်းသည့်ရက်",
+        "requestedDate": "တောင်းဆိုထားသည့်ရက်",
+        "supplierQuotations": "ကုန်ပစ္စည်းပေးသွင်းသူ၏ ဈေးနှုန်းကမ်းလှမ်းချက်များ"
+    }
+}

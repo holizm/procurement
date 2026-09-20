@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "รวม",
+        "neededDate": "วันที่ต้องการ",
+        "orderDate": "วันที่สั่งซื้อ",
+        "procurement": "การจัดซื้อ",
+        "purchaseOrders": "ใบสั่งซื้อ",
+        "purchaseRequest": "คำขอซื้อ",
+        "purchaseRequests": "คำขอซื้อ",
+        "quotationDate": "วันที่เสนอราคา",
+        "requestedDate": "วันที่ร้องขอ",
+        "supplierQuotations": "ใบเสนอราคาจากผู้จำหน่าย"
+    }
+}

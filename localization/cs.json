@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Celkem",
+        "neededDate": "Datum potřeby",
+        "orderDate": "Datum objednávky",
+        "procurement": "Nákup",
+        "purchaseOrders": "Nákupní objednávky",
+        "purchaseRequest": "Požadavek na nákup",
+        "purchaseRequests": "Požadavky na nákup",
+        "quotationDate": "Datum nabídky",
+        "requestedDate": "Požadované datum",
+        "supplierQuotations": "Nabídky dodavatelů"
+    }
+}

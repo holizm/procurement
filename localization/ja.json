@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "合計",
+        "neededDate": "必要日",
+        "orderDate": "発注日",
+        "procurement": "調達",
+        "purchaseOrders": "発注書",
+        "purchaseRequest": "購買申請",
+        "purchaseRequests": "購買申請",
+        "quotationDate": "見積日",
+        "requestedDate": "希望日",
+        "supplierQuotations": "仕入先見積書"
+    }
+}

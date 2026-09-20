@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Total",
+        "neededDate": "Tanggal kebutuhan",
+        "orderDate": "Tanggal pesanan",
+        "procurement": "Pengadaan",
+        "purchaseOrders": "Pesanan pembelian",
+        "purchaseRequest": "Permintaan pembelian",
+        "purchaseRequests": "Permintaan pembelian",
+        "quotationDate": "Tanggal penawaran",
+        "requestedDate": "Tanggal yang diminta",
+        "supplierQuotations": "Penawaran pemasok"
+    }
+}

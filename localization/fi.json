@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Yhteensä",
+        "neededDate": "Tarvepäivä",
+        "orderDate": "Tilauspäivä",
+        "procurement": "Hankinta",
+        "purchaseOrders": "Ostotilaukset",
+        "purchaseRequest": "Hankintapyyntö",
+        "purchaseRequests": "Hankintapyynnöt",
+        "quotationDate": "Tarjouksen päiväys",
+        "requestedDate": "Pyydetty päivämäärä",
+        "supplierQuotations": "Toimittajien tarjoukset"
+    }
+}

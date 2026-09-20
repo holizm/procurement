@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Jumla",
+        "neededDate": "Tarehe inayohitajika",
+        "orderDate": "Tarehe ya agizo",
+        "procurement": "Ununuzi",
+        "purchaseOrders": "Maagizo ya ununuzi",
+        "purchaseRequest": "Ombi la ununuzi",
+        "purchaseRequests": "Maombi ya ununuzi",
+        "quotationDate": "Tarehe ya nukuu ya bei",
+        "requestedDate": "Tarehe iliyoombwa",
+        "supplierQuotations": "Nukuu za bei za wasambazaji"
+    }
+}

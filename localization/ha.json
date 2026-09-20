@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Jimilla",
+        "neededDate": "Ranar da ake buƙata",
+        "orderDate": "Ranar oda",
+        "procurement": "Saye da samarwa",
+        "purchaseOrders": "Odar saye",
+        "purchaseRequest": "Buƙatar saye",
+        "purchaseRequests": "Buƙatun saye",
+        "quotationDate": "Ranar tayin farashi",
+        "requestedDate": "Ranar da aka nema",
+        "supplierQuotations": "Tayin farashi na masu kaya"
+    }
+}

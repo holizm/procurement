@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Total",
+        "neededDate": "Data necesară",
+        "orderDate": "Data comenzii",
+        "procurement": "Achiziții",
+        "purchaseOrders": "Comenzi de achiziție",
+        "purchaseRequest": "Cerere de achiziție",
+        "purchaseRequests": "Cereri de achiziție",
+        "quotationDate": "Data ofertei",
+        "requestedDate": "Data solicitată",
+        "supplierQuotations": "Oferte de la furnizori"
+    }
+}

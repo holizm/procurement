@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "کل",
+        "neededDate": "ضرورت کی تاریخ",
+        "orderDate": "آرڈر کی تاریخ",
+        "procurement": "خریداری",
+        "purchaseOrders": "خریداری کے آرڈرز",
+        "purchaseRequest": "خریداری کی درخواست",
+        "purchaseRequests": "خریداری کی درخواستیں",
+        "quotationDate": "قیمت نامے کی تاریخ",
+        "requestedDate": "درخواست کردہ تاریخ",
+        "supplierQuotations": "سپلائر کے قیمت نامے"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "ਕੁੱਲ",
+        "neededDate": "ਲੋੜੀਂਦੀ ਮਿਤੀ",
+        "orderDate": "ਆਰਡਰ ਦੀ ਮਿਤੀ",
+        "procurement": "ਖਰੀਦ ਪ੍ਰਬੰਧਨ",
+        "purchaseOrders": "ਖਰੀਦ ਆਰਡਰ",
+        "purchaseRequest": "ਖਰੀਦ ਬੇਨਤੀ",
+        "purchaseRequests": "ਖਰੀਦ ਬੇਨਤੀਆਂ",
+        "quotationDate": "ਦਰ-ਪੇਸ਼ਕਸ਼ ਦੀ ਮਿਤੀ",
+        "requestedDate": "ਬੇਨਤੀ ਕੀਤੀ ਮਿਤੀ",
+        "supplierQuotations": "ਸਪਲਾਇਰ ਦੀਆਂ ਦਰ-ਪੇਸ਼ਕਸ਼ਾਂ"
+    }
+}

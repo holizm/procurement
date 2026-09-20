@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "एकूण",
+        "neededDate": "आवश्यक तारीख",
+        "orderDate": "ऑर्डरची तारीख",
+        "procurement": "खरेदी व्यवस्थापन",
+        "purchaseOrders": "खरेदी आदेश",
+        "purchaseRequest": "खरेदी विनंती",
+        "purchaseRequests": "खरेदी विनंत्या",
+        "quotationDate": "दरपत्रकाची तारीख",
+        "requestedDate": "विनंती केलेली तारीख",
+        "supplierQuotations": "पुरवठादारांची दरपत्रके"
+    }
+}

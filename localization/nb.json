@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Totalt",
+        "neededDate": "Behovsdato",
+        "orderDate": "Bestillingsdato",
+        "procurement": "Innkjøp",
+        "purchaseOrders": "Innkjøpsordrer",
+        "purchaseRequest": "Innkjøpsforespørsel",
+        "purchaseRequests": "Innkjøpsforespørsler",
+        "quotationDate": "Tilbudsdato",
+        "requestedDate": "Ønsket dato",
+        "supplierQuotations": "Leverandørtilbud"
+    }
+}

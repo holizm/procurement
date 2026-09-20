@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "סך הכול",
+        "neededDate": "תאריך נדרש",
+        "orderDate": "תאריך הזמנה",
+        "procurement": "רכש",
+        "purchaseOrders": "הזמנות רכש",
+        "purchaseRequest": "בקשת רכש",
+        "purchaseRequests": "בקשות רכש",
+        "quotationDate": "תאריך הצעת מחיר",
+        "requestedDate": "תאריך מבוקש",
+        "supplierQuotations": "הצעות מחיר מספקים"
+    }
+}

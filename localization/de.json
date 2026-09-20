@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Gesamt",
+        "neededDate": "Bedarfsdatum",
+        "orderDate": "Bestelldatum",
+        "procurement": "Beschaffung",
+        "purchaseOrders": "Bestellungen",
+        "purchaseRequest": "Beschaffungsanfrage",
+        "purchaseRequests": "Beschaffungsanfragen",
+        "quotationDate": "Angebotsdatum",
+        "requestedDate": "Gewünschtes Datum",
+        "supplierQuotations": "Lieferantenangebote"
+    }
+}

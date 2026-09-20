@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Totaal",
+        "neededDate": "Benodigde datum",
+        "orderDate": "Besteldatum",
+        "procurement": "Verkryging",
+        "purchaseOrders": "Aankoopbestellings",
+        "purchaseRequest": "Aankoopversoek",
+        "purchaseRequests": "Aankoopversoeke",
+        "quotationDate": "Kwotasiedatum",
+        "requestedDate": "Versoekte datum",
+        "supplierQuotations": "Verskafferkwotasies"
+    }
+}

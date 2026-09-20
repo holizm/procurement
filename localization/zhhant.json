@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "總計",
+        "neededDate": "需求日期",
+        "orderDate": "下單日期",
+        "procurement": "採購",
+        "purchaseOrders": "採購訂單",
+        "purchaseRequest": "採購申請",
+        "purchaseRequests": "採購申請",
+        "quotationDate": "報價日期",
+        "requestedDate": "要求日期",
+        "supplierQuotations": "供應商報價"
+    }
+}

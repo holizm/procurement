@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Összesen",
+        "neededDate": "Szükséglet dátuma",
+        "orderDate": "Rendelés dátuma",
+        "procurement": "Beszerzés",
+        "purchaseOrders": "Beszerzési rendelések",
+        "purchaseRequest": "Beszerzési igény",
+        "purchaseRequests": "Beszerzési igények",
+        "quotationDate": "Ajánlat dátuma",
+        "requestedDate": "Kért dátum",
+        "supplierQuotations": "Beszállítói ajánlatok"
+    }
+}

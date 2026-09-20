@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "કુલ",
+        "neededDate": "જરૂરી તારીખ",
+        "orderDate": "ઓર્ડરની તારીખ",
+        "procurement": "ખરીદી વ્યવસ્થાપન",
+        "purchaseOrders": "ખરીદી ઓર્ડરો",
+        "purchaseRequest": "ખરીદી વિનંતી",
+        "purchaseRequests": "ખરીદી વિનંતીઓ",
+        "quotationDate": "ભાવપત્રકની તારીખ",
+        "requestedDate": "વિનંતી કરેલી તારીખ",
+        "supplierQuotations": "સપ્લાયરનાં ભાવપત્રકો"
+    }
+}

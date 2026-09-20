@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Kabuuan",
+        "neededDate": "Petsa ng pangangailangan",
+        "orderDate": "Petsa ng order",
+        "procurement": "Pagkuha",
+        "purchaseOrders": "Mga purchase order",
+        "purchaseRequest": "Kahilingan sa pagbili",
+        "purchaseRequests": "Mga kahilingan sa pagbili",
+        "quotationDate": "Petsa ng presyong alok",
+        "requestedDate": "Hiniling na petsa",
+        "supplierQuotations": "Mga presyong alok ng supplier"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Σύνολο",
+        "neededDate": "Ημερομηνία ανάγκης",
+        "orderDate": "Ημερομηνία παραγγελίας",
+        "procurement": "Προμήθειες",
+        "purchaseOrders": "Εντολές αγοράς",
+        "purchaseRequest": "Αίτημα αγοράς",
+        "purchaseRequests": "Αιτήματα αγοράς",
+        "quotationDate": "Ημερομηνία προσφοράς",
+        "requestedDate": "Ζητούμενη ημερομηνία",
+        "supplierQuotations": "Προσφορές προμηθευτών"
+    }
+}

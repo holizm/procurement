@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "ጠቅላላ",
+        "neededDate": "የሚያስፈልግበት ቀን",
+        "orderDate": "የትዕዛዝ ቀን",
+        "procurement": "ግዥ",
+        "purchaseOrders": "የግዥ ትዕዛዞች",
+        "purchaseRequest": "የግዥ ጥያቄ",
+        "purchaseRequests": "የግዥ ጥያቄዎች",
+        "quotationDate": "የዋጋ ማቅረቢያ ቀን",
+        "requestedDate": "የተጠየቀው ቀን",
+        "supplierQuotations": "የአቅራቢዎች የዋጋ ማቅረቢያዎች"
+    }
+}

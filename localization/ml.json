@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "ആകെ",
+        "neededDate": "ആവശ്യമായ തീയതി",
+        "orderDate": "ഓർഡർ തീയതി",
+        "procurement": "സംഭരണം",
+        "purchaseOrders": "വാങ്ങൽ ഓർഡറുകൾ",
+        "purchaseRequest": "വാങ്ങൽ അഭ്യർത്ഥന",
+        "purchaseRequests": "വാങ്ങൽ അഭ്യർത്ഥനകൾ",
+        "quotationDate": "ക്വട്ടേഷൻ തീയതി",
+        "requestedDate": "അഭ്യർത്ഥിച്ച തീയതി",
+        "supplierQuotations": "വിതരണക്കാരുടെ ക്വട്ടേഷനുകൾ"
+    }
+}

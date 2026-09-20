@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "합계",
+        "neededDate": "필요일",
+        "orderDate": "주문일",
+        "procurement": "조달",
+        "purchaseOrders": "구매 주문서",
+        "purchaseRequest": "구매 요청",
+        "purchaseRequests": "구매 요청",
+        "quotationDate": "견적일",
+        "requestedDate": "요청일",
+        "supplierQuotations": "공급업체 견적서"
+    }
+}

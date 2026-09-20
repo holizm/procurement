@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "Toplam",
+        "neededDate": "İhtiyaç tarihi",
+        "orderDate": "Sipariş tarihi",
+        "procurement": "Tedarik",
+        "purchaseOrders": "Satın alma siparişleri",
+        "purchaseRequest": "Satın alma talebi",
+        "purchaseRequests": "Satın alma talepleri",
+        "quotationDate": "Teklif tarihi",
+        "requestedDate": "Talep edilen tarih",
+        "supplierQuotations": "Tedarikçi teklifleri"
+    }
+}

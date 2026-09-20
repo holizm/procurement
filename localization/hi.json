@@ -1,0 +1,14 @@
+{
+    "common": {
+        "total": "कुल",
+        "neededDate": "आवश्यकता की तारीख",
+        "orderDate": "ऑर्डर की तारीख",
+        "procurement": "खरीद प्रबंधन",
+        "purchaseOrders": "क्रय आदेश",
+        "purchaseRequest": "क्रय अनुरोध",
+        "purchaseRequests": "क्रय अनुरोध",
+        "quotationDate": "कोटेशन की तारीख",
+        "requestedDate": "अनुरोधित तारीख",
+        "supplierQuotations": "आपूर्तिकर्ता कोटेशन"
+    }
+}
