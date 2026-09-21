@@ -1,6 +1,5 @@
 {
     "common": {
-        "total": "합계",
         "neededDate": "필요일",
         "orderDate": "주문일",
         "procurement": "조달",

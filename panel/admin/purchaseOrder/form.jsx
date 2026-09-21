@@ -35,7 +35,7 @@ const inputs = <>
         required
     />
     <Numeric
-        placeholder='procurementTotal'
+        placeholder='coreTotal'
         property='total'
         required
     />

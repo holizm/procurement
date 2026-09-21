@@ -1,6 +1,5 @@
 {
     "common": {
-        "total": "Итого",
         "neededDate": "Дата потребности",
         "orderDate": "Дата заказа",
         "procurement": "Закупки",

@@ -1,6 +1,5 @@
 {
     "common": {
-        "total": "总计",
         "neededDate": "需求日期",
         "orderDate": "下单日期",
         "procurement": "采购",

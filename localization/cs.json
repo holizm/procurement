@@ -1,6 +1,5 @@
 {
     "common": {
-        "total": "Celkem",
         "neededDate": "Datum potřeby",
         "orderDate": "Datum objednávky",
         "procurement": "Nákup",

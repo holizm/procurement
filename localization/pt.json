@@ -1,6 +1,5 @@
 {
     "common": {
-        "total": "Total",
         "neededDate": "Data da necessidade",
         "orderDate": "Data do pedido",
         "procurement": "Aquisições",
