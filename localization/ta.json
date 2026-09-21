@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "பொருள் பெறுதல்",
+        "goodsReceiptItem": "பொருள் பெறுதல் – உருப்படி",
+        "goodsReceiptItems": "பொருள் பெறுதல்கள் – உருப்படி",
+        "goodsReceipts": "பொருள் பெறுதல்கள்",
         "neededDate": "தேவைப்படும் தேதி",
         "orderDate": "ஆர்டர் தேதி",
         "procurement": "கொள்முதல்",
+        "purchaseOrder": "கொள்முதல் ஆணை",
+        "purchaseOrderItem": "கொள்முதல் ஆணை – உருப்படி",
+        "purchaseOrderItems": "கொள்முதல் ஆணைகள் – உருப்படி",
         "purchaseOrders": "கொள்முதல் ஆணைகள்",
         "purchaseRequest": "கொள்முதல் கோரிக்கை",
+        "purchaseRequestItem": "கொள்முதல் கோரிக்கை – உருப்படி",
+        "purchaseRequestItems": "கொள்முதல் கோரிக்கைகள் – உருப்படி",
         "purchaseRequests": "கொள்முதல் கோரிக்கைகள்",
         "quotationDate": "விலைப்புள்ளி தேதி",
         "requestedDate": "கோரப்பட்ட தேதி",
+        "supplierQuotation": "விநியோகிப்பாளர் விலைப்புள்ளி",
+        "supplierQuotationItem": "விநியோகிப்பாளர் விலைப்புள்ளி – உருப்படி",
+        "supplierQuotationItems": "விநியோகஸ்தர் விலைப்புள்ளிகள் – உருப்படி",
         "supplierQuotations": "விநியோகஸ்தர் விலைப்புள்ளிகள்"
     }
 }

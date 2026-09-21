@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "การรับสินค้า",
+        "goodsReceiptItem": "การรับสินค้า – รายการ",
+        "goodsReceiptItems": "การรับสินค้า – รายการ",
+        "goodsReceipts": "การรับสินค้า",
         "neededDate": "วันที่ต้องการ",
         "orderDate": "วันที่สั่งซื้อ",
         "procurement": "การจัดซื้อ",
+        "purchaseOrder": "ใบสั่งซื้อ",
+        "purchaseOrderItem": "ใบสั่งซื้อ – รายการ",
+        "purchaseOrderItems": "ใบสั่งซื้อ – รายการ",
         "purchaseOrders": "ใบสั่งซื้อ",
         "purchaseRequest": "คำขอซื้อ",
+        "purchaseRequestItem": "คำขอซื้อ – รายการ",
+        "purchaseRequestItems": "คำขอซื้อ – รายการ",
         "purchaseRequests": "คำขอซื้อ",
         "quotationDate": "วันที่เสนอราคา",
         "requestedDate": "วันที่ร้องขอ",
+        "supplierQuotation": "ใบเสนอราคาจากซัพพลายเออร์",
+        "supplierQuotationItem": "ใบเสนอราคาจากซัพพลายเออร์ – รายการ",
+        "supplierQuotationItems": "ใบเสนอราคาจากผู้จำหน่าย – รายการ",
         "supplierQuotations": "ใบเสนอราคาจากผู้จำหน่าย"
     }
 }

@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Приймання товару",
+        "goodsReceiptItem": "Приймання товару – Елемент",
+        "goodsReceiptItems": "Приймання товарів – Елемент",
+        "goodsReceipts": "Приймання товарів",
         "neededDate": "Дата потреби",
         "orderDate": "Дата замовлення",
         "procurement": "Закупівлі",
+        "purchaseOrder": "Замовлення на закупівлю",
+        "purchaseOrderItem": "Замовлення на закупівлю – Елемент",
+        "purchaseOrderItems": "Замовлення на закупівлю – Елемент",
         "purchaseOrders": "Замовлення на закупівлю",
         "purchaseRequest": "Заявка на закупівлю",
+        "purchaseRequestItem": "Заявка на закупівлю – Елемент",
+        "purchaseRequestItems": "Заявки на закупівлю – Елемент",
         "purchaseRequests": "Заявки на закупівлю",
         "quotationDate": "Дата пропозиції",
         "requestedDate": "Запитана дата",
+        "supplierQuotation": "Пропозиція постачальника",
+        "supplierQuotationItem": "Пропозиція постачальника – Елемент",
+        "supplierQuotationItems": "Пропозиції постачальників – Елемент",
         "supplierQuotations": "Пропозиції постачальників"
     }
 }

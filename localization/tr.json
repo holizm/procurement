@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Mal kabulü",
+        "goodsReceiptItem": "Mal kabulü – Öğe",
+        "goodsReceiptItems": "Mal kabulleri – Öğe",
+        "goodsReceipts": "Mal kabulleri",
         "neededDate": "İhtiyaç tarihi",
         "orderDate": "Sipariş tarihi",
         "procurement": "Tedarik",
+        "purchaseOrder": "Satın alma siparişi",
+        "purchaseOrderItem": "Satın alma siparişi – Öğe",
+        "purchaseOrderItems": "Satın alma siparişleri – Öğe",
         "purchaseOrders": "Satın alma siparişleri",
         "purchaseRequest": "Satın alma talebi",
+        "purchaseRequestItem": "Satın alma talebi – Öğe",
+        "purchaseRequestItems": "Satın alma talepleri – Öğe",
         "purchaseRequests": "Satın alma talepleri",
         "quotationDate": "Teklif tarihi",
         "requestedDate": "Talep edilen tarih",
+        "supplierQuotation": "Tedarikçi teklifi",
+        "supplierQuotationItem": "Tedarikçi teklifi – Öğe",
+        "supplierQuotationItems": "Tedarikçi teklifleri – Öğe",
         "supplierQuotations": "Tedarikçi teklifleri"
     }
 }

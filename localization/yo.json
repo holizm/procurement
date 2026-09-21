@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Ìgbà gba ọjà",
+        "goodsReceiptItem": "Ìgbà gba ọjà – Ohun",
+        "goodsReceiptItems": "Àwọn ìgbà gba ọjà – Ohun",
+        "goodsReceipts": "Àwọn ìgbà gba ọjà",
         "neededDate": "Ọjọ́ tí a nílò",
         "orderDate": "Ọjọ́ ìbéèrè ọjà",
         "procurement": "Rírà ọjà",
+        "purchaseOrder": "Àṣẹ ríra",
+        "purchaseOrderItem": "Àṣẹ ríra – Ohun",
+        "purchaseOrderItems": "Àwọn àṣẹ ìràjà – Ohun",
         "purchaseOrders": "Àwọn àṣẹ ìràjà",
         "purchaseRequest": "Ìbéèrè ìràjà",
+        "purchaseRequestItem": "Ìbéèrè ìràjà – Ohun",
+        "purchaseRequestItems": "Àwọn ìbéèrè ìràjà – Ohun",
         "purchaseRequests": "Àwọn ìbéèrè ìràjà",
         "quotationDate": "Ọjọ́ àkọsílẹ̀ iye owó",
         "requestedDate": "Ọjọ́ tí a béèrè",
+        "supplierQuotation": "Ìfilọ́lẹ̀ olùpèsè",
+        "supplierQuotationItem": "Ìfilọ́lẹ̀ olùpèsè – Ohun",
+        "supplierQuotationItems": "Àwọn àkọsílẹ̀ iye owó olùpèsè – Ohun",
         "supplierQuotations": "Àwọn àkọsílẹ̀ iye owó olùpèsè"
     }
 }

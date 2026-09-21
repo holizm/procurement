@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "קבלת סחורה",
+        "goodsReceiptItem": "קבלת סחורה – פריט",
+        "goodsReceiptItems": "קבלות סחורה – פריט",
+        "goodsReceipts": "קבלות סחורה",
         "neededDate": "תאריך נדרש",
         "orderDate": "תאריך הזמנה",
         "procurement": "רכש",
+        "purchaseOrder": "הזמנת רכש",
+        "purchaseOrderItem": "הזמנת רכש – פריט",
+        "purchaseOrderItems": "הזמנות רכש – פריט",
         "purchaseOrders": "הזמנות רכש",
         "purchaseRequest": "בקשת רכש",
+        "purchaseRequestItem": "בקשת רכש – פריט",
+        "purchaseRequestItems": "בקשות רכש – פריט",
         "purchaseRequests": "בקשות רכש",
         "quotationDate": "תאריך הצעת מחיר",
         "requestedDate": "תאריך מבוקש",
+        "supplierQuotation": "הצעת מחיר מספק",
+        "supplierQuotationItem": "הצעת מחיר מספק – פריט",
+        "supplierQuotationItems": "הצעות מחיר מספקים – פריט",
         "supplierQuotations": "הצעות מחיר מספקים"
     }
 }

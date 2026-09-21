@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "ਮਾਲ ਪ੍ਰਾਪਤੀ",
+        "goodsReceiptItem": "ਮਾਲ ਪ੍ਰਾਪਤੀ – ਆਈਟਮ",
+        "goodsReceiptItems": "ਮਾਲ ਪ੍ਰਾਪਤੀਆਂ – ਆਈਟਮ",
+        "goodsReceipts": "ਮਾਲ ਪ੍ਰਾਪਤੀਆਂ",
         "neededDate": "ਲੋੜੀਂਦੀ ਮਿਤੀ",
         "orderDate": "ਆਰਡਰ ਦੀ ਮਿਤੀ",
         "procurement": "ਖਰੀਦ ਪ੍ਰਬੰਧਨ",
+        "purchaseOrder": "ਖਰੀਦ ਆਰਡਰ",
+        "purchaseOrderItem": "ਖਰੀਦ ਆਰਡਰ – ਆਈਟਮ",
+        "purchaseOrderItems": "ਖਰੀਦ ਆਰਡਰ – ਆਈਟਮ",
         "purchaseOrders": "ਖਰੀਦ ਆਰਡਰ",
         "purchaseRequest": "ਖਰੀਦ ਬੇਨਤੀ",
+        "purchaseRequestItem": "ਖਰੀਦ ਬੇਨਤੀ – ਆਈਟਮ",
+        "purchaseRequestItems": "ਖਰੀਦ ਬੇਨਤੀਆਂ – ਆਈਟਮ",
         "purchaseRequests": "ਖਰੀਦ ਬੇਨਤੀਆਂ",
         "quotationDate": "ਦਰ-ਪੇਸ਼ਕਸ਼ ਦੀ ਮਿਤੀ",
         "requestedDate": "ਬੇਨਤੀ ਕੀਤੀ ਮਿਤੀ",
+        "supplierQuotation": "ਸਪਲਾਇਰ ਕੋਟੇਸ਼ਨ",
+        "supplierQuotationItem": "ਸਪਲਾਇਰ ਕੋਟੇਸ਼ਨ – ਆਈਟਮ",
+        "supplierQuotationItems": "ਸਪਲਾਇਰ ਦੀਆਂ ਦਰ-ਪੇਸ਼ਕਸ਼ਾਂ – ਆਈਟਮ",
         "supplierQuotations": "ਸਪਲਾਇਰ ਦੀਆਂ ਦਰ-ਪੇਸ਼ਕਸ਼ਾਂ"
     }
 }

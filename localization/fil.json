@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Pagtanggap ng produkto",
+        "goodsReceiptItem": "Pagtanggap ng produkto – Item",
+        "goodsReceiptItems": "Mga pagtanggap ng produkto – Item",
+        "goodsReceipts": "Mga pagtanggap ng produkto",
         "neededDate": "Petsa ng pangangailangan",
         "orderDate": "Petsa ng order",
         "procurement": "Pagkuha",
+        "purchaseOrder": "Order sa pagbili",
+        "purchaseOrderItem": "Order sa pagbili – Item",
+        "purchaseOrderItems": "Mga purchase order – Item",
         "purchaseOrders": "Mga purchase order",
         "purchaseRequest": "Kahilingan sa pagbili",
+        "purchaseRequestItem": "Kahilingan sa pagbili – Item",
+        "purchaseRequestItems": "Mga kahilingan sa pagbili – Item",
         "purchaseRequests": "Mga kahilingan sa pagbili",
         "quotationDate": "Petsa ng presyong alok",
         "requestedDate": "Hiniling na petsa",
+        "supplierQuotation": "Sipi ng presyo ng supplier",
+        "supplierQuotationItem": "Sipi ng presyo ng supplier – Item",
+        "supplierQuotationItems": "Mga presyong alok ng supplier – Item",
         "supplierQuotations": "Mga presyong alok ng supplier"
     }
 }

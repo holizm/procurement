@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Réception de marchandises",
+        "goodsReceiptItem": "Réception de marchandises – Élément",
+        "goodsReceiptItems": "Réceptions de marchandises – Élément",
+        "goodsReceipts": "Réceptions de marchandises",
         "neededDate": "Date du besoin",
         "orderDate": "Date de commande",
         "procurement": "Approvisionnement",
+        "purchaseOrder": "Bon de commande",
+        "purchaseOrderItem": "Bon de commande – Élément",
+        "purchaseOrderItems": "Bons de commande – Élément",
         "purchaseOrders": "Bons de commande",
         "purchaseRequest": "Demande d’achat",
+        "purchaseRequestItem": "Demande d’achat – Élément",
+        "purchaseRequestItems": "Demandes d’achat – Élément",
         "purchaseRequests": "Demandes d’achat",
         "quotationDate": "Date du devis",
         "requestedDate": "Date demandée",
+        "supplierQuotation": "Devis fournisseur",
+        "supplierQuotationItem": "Devis fournisseur – Élément",
+        "supplierQuotationItems": "Devis des fournisseurs – Élément",
         "supplierQuotations": "Devis des fournisseurs"
     }
 }

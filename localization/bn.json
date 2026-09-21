@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "পণ্য গ্রহণ",
+        "goodsReceiptItem": "পণ্য গ্রহণ – আইটেম",
+        "goodsReceiptItems": "পণ্য গ্রহণসমূহ – আইটেম",
+        "goodsReceipts": "পণ্য গ্রহণসমূহ",
         "neededDate": "প্রয়োজনের তারিখ",
         "orderDate": "অর্ডারের তারিখ",
         "procurement": "ক্রয় ব্যবস্থাপনা",
+        "purchaseOrder": "ক্রয় আদেশ",
+        "purchaseOrderItem": "ক্রয় আদেশ – আইটেম",
+        "purchaseOrderItems": "ক্রয়াদেশ – আইটেম",
         "purchaseOrders": "ক্রয়াদেশ",
         "purchaseRequest": "ক্রয় অনুরোধ",
+        "purchaseRequestItem": "ক্রয় অনুরোধ – আইটেম",
+        "purchaseRequestItems": "ক্রয় অনুরোধসমূহ – আইটেম",
         "purchaseRequests": "ক্রয় অনুরোধসমূহ",
         "quotationDate": "দরপত্রের তারিখ",
         "requestedDate": "অনুরোধকৃত তারিখ",
+        "supplierQuotation": "সরবরাহকারীর উদ্ধৃতি",
+        "supplierQuotationItem": "সরবরাহকারীর উদ্ধৃতি – আইটেম",
+        "supplierQuotationItems": "সরবরাহকারীর দরপত্রসমূহ – আইটেম",
         "supplierQuotations": "সরবরাহকারীর দরপত্রসমূহ"
     }
 }

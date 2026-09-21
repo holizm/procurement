@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Tavaran vastaanotto",
+        "goodsReceiptItem": "Tavaran vastaanotto – Kohde",
+        "goodsReceiptItems": "Tavaran vastaanotot – Kohde",
+        "goodsReceipts": "Tavaran vastaanotot",
         "neededDate": "Tarvepäivä",
         "orderDate": "Tilauspäivä",
         "procurement": "Hankinta",
+        "purchaseOrder": "Ostotilaus",
+        "purchaseOrderItem": "Ostotilaus – Kohde",
+        "purchaseOrderItems": "Ostotilaukset – Kohde",
         "purchaseOrders": "Ostotilaukset",
         "purchaseRequest": "Hankintapyyntö",
+        "purchaseRequestItem": "Hankintapyyntö – Kohde",
+        "purchaseRequestItems": "Hankintapyynnöt – Kohde",
         "purchaseRequests": "Hankintapyynnöt",
         "quotationDate": "Tarjouksen päiväys",
         "requestedDate": "Pyydetty päivämäärä",
+        "supplierQuotation": "Toimittajan tarjous",
+        "supplierQuotationItem": "Toimittajan tarjous – Kohde",
+        "supplierQuotationItems": "Toimittajien tarjoukset – Kohde",
         "supplierQuotations": "Toimittajien tarjoukset"
     }
 }

@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "상품 입고",
+        "goodsReceiptItem": "상품 입고 – 항목",
+        "goodsReceiptItems": "상품 입고 – 항목",
+        "goodsReceipts": "상품 입고",
         "neededDate": "필요일",
         "orderDate": "주문일",
         "procurement": "조달",
+        "purchaseOrder": "구매 주문",
+        "purchaseOrderItem": "구매 주문 – 항목",
+        "purchaseOrderItems": "구매 주문서 – 항목",
         "purchaseOrders": "구매 주문서",
         "purchaseRequest": "구매 요청",
+        "purchaseRequestItem": "구매 요청 – 항목",
+        "purchaseRequestItems": "구매 요청 – 항목",
         "purchaseRequests": "구매 요청",
         "quotationDate": "견적일",
         "requestedDate": "요청일",
+        "supplierQuotation": "공급업체 견적",
+        "supplierQuotationItem": "공급업체 견적 – 항목",
+        "supplierQuotationItems": "공급업체 견적서 – 항목",
         "supplierQuotations": "공급업체 견적서"
     }
 }

@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "ကုန်ပစ္စည်း လက်ခံမှု",
+        "goodsReceiptItem": "ကုန်ပစ္စည်း လက်ခံမှု – အရာ",
+        "goodsReceiptItems": "ကုန်ပစ္စည်း လက်ခံမှုများ – အရာ",
+        "goodsReceipts": "ကုန်ပစ္စည်း လက်ခံမှုများ",
         "neededDate": "လိုအပ်သည့်ရက်",
         "orderDate": "အော်ဒါတင်ရက်",
         "procurement": "ဝယ်ယူရေး",
+        "purchaseOrder": "ဝယ်ယူမှု အမှာစာ",
+        "purchaseOrderItem": "ဝယ်ယူမှု အမှာစာ – အရာ",
+        "purchaseOrderItems": "ဝယ်ယူမှုအော်ဒါများ – အရာ",
         "purchaseOrders": "ဝယ်ယူမှုအော်ဒါများ",
         "purchaseRequest": "ဝယ်ယူရန်တောင်းဆိုချက်",
+        "purchaseRequestItem": "ဝယ်ယူရန်တောင်းဆိုချက် – အရာ",
+        "purchaseRequestItems": "ဝယ်ယူရန်တောင်းဆိုချက်များ – အရာ",
         "purchaseRequests": "ဝယ်ယူရန်တောင်းဆိုချက်များ",
         "quotationDate": "ဈေးနှုန်းကမ်းလှမ်းသည့်ရက်",
         "requestedDate": "တောင်းဆိုထားသည့်ရက်",
+        "supplierQuotation": "ပေးသွင်းသူ ဈေးနှုန်း",
+        "supplierQuotationItem": "ပေးသွင်းသူ ဈေးနှုန်း – အရာ",
+        "supplierQuotationItems": "ကုန်ပစ္စည်းပေးသွင်းသူ၏ ဈေးနှုန်းကမ်းလှမ်းချက်များ – အရာ",
         "supplierQuotations": "ကုန်ပစ္စည်းပေးသွင်းသူ၏ ဈေးနှုန်းကမ်းလှမ်းချက်များ"
     }
 }

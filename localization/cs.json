@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Příjem zboží",
+        "goodsReceiptItem": "Příjem zboží – Položka",
+        "goodsReceiptItems": "Příjmy zboží – Položka",
+        "goodsReceipts": "Příjmy zboží",
         "neededDate": "Datum potřeby",
         "orderDate": "Datum objednávky",
         "procurement": "Nákup",
+        "purchaseOrder": "Nákupní objednávka",
+        "purchaseOrderItem": "Nákupní objednávka – Položka",
+        "purchaseOrderItems": "Nákupní objednávky – Položka",
         "purchaseOrders": "Nákupní objednávky",
         "purchaseRequest": "Požadavek na nákup",
+        "purchaseRequestItem": "Požadavek na nákup – Položka",
+        "purchaseRequestItems": "Požadavky na nákup – Položka",
         "purchaseRequests": "Požadavky na nákup",
         "quotationDate": "Datum nabídky",
         "requestedDate": "Požadované datum",
+        "supplierQuotation": "Nabídka dodavatele",
+        "supplierQuotationItem": "Nabídka dodavatele – Položka",
+        "supplierQuotationItems": "Nabídky dodavatelů – Položka",
         "supplierQuotations": "Nabídky dodavatelů"
     }
 }

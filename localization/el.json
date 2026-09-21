@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Παραλαβή αγαθών",
+        "goodsReceiptItem": "Παραλαβή αγαθών – Στοιχείο",
+        "goodsReceiptItems": "Παραλαβές αγαθών – Στοιχείο",
+        "goodsReceipts": "Παραλαβές αγαθών",
         "neededDate": "Ημερομηνία ανάγκης",
         "orderDate": "Ημερομηνία παραγγελίας",
         "procurement": "Προμήθειες",
+        "purchaseOrder": "Εντολή αγοράς",
+        "purchaseOrderItem": "Εντολή αγοράς – Στοιχείο",
+        "purchaseOrderItems": "Εντολές αγοράς – Στοιχείο",
         "purchaseOrders": "Εντολές αγοράς",
         "purchaseRequest": "Αίτημα αγοράς",
+        "purchaseRequestItem": "Αίτημα αγοράς – Στοιχείο",
+        "purchaseRequestItems": "Αιτήματα αγοράς – Στοιχείο",
         "purchaseRequests": "Αιτήματα αγοράς",
         "quotationDate": "Ημερομηνία προσφοράς",
         "requestedDate": "Ζητούμενη ημερομηνία",
+        "supplierQuotation": "Προσφορά προμηθευτή",
+        "supplierQuotationItem": "Προσφορά προμηθευτή – Στοιχείο",
+        "supplierQuotationItems": "Προσφορές προμηθευτών – Στοιχείο",
         "supplierQuotations": "Προσφορές προμηθευτών"
     }
 }

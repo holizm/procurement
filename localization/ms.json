@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Penerimaan barang",
+        "goodsReceiptItem": "Penerimaan barang – Item",
+        "goodsReceiptItems": "Penerimaan barang – Item",
+        "goodsReceipts": "Penerimaan barang",
         "neededDate": "Tarikh diperlukan",
         "orderDate": "Tarikh pesanan",
         "procurement": "Perolehan",
+        "purchaseOrder": "Pesanan pembelian",
+        "purchaseOrderItem": "Pesanan pembelian – Item",
+        "purchaseOrderItems": "Pesanan pembelian – Item",
         "purchaseOrders": "Pesanan pembelian",
         "purchaseRequest": "Permintaan pembelian",
+        "purchaseRequestItem": "Permintaan pembelian – Item",
+        "purchaseRequestItems": "Permintaan pembelian – Item",
         "purchaseRequests": "Permintaan pembelian",
         "quotationDate": "Tarikh sebut harga",
         "requestedDate": "Tarikh diminta",
+        "supplierQuotation": "Sebut harga pembekal",
+        "supplierQuotationItem": "Sebut harga pembekal – Item",
+        "supplierQuotationItems": "Sebut harga pembekal – Item",
         "supplierQuotations": "Sebut harga pembekal"
     }
 }

@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "سامان کی وصولی",
+        "goodsReceiptItem": "سامان کی وصولی – آئٹم",
+        "goodsReceiptItems": "سامان کی وصولیاں – آئٹم",
+        "goodsReceipts": "سامان کی وصولیاں",
         "neededDate": "ضرورت کی تاریخ",
         "orderDate": "آرڈر کی تاریخ",
         "procurement": "خریداری",
+        "purchaseOrder": "خریداری آرڈر",
+        "purchaseOrderItem": "خریداری آرڈر – آئٹم",
+        "purchaseOrderItems": "خریداری کے آرڈرز – آئٹم",
         "purchaseOrders": "خریداری کے آرڈرز",
         "purchaseRequest": "خریداری کی درخواست",
+        "purchaseRequestItem": "خریداری کی درخواست – آئٹم",
+        "purchaseRequestItems": "خریداری کی درخواستیں – آئٹم",
         "purchaseRequests": "خریداری کی درخواستیں",
         "quotationDate": "قیمت نامے کی تاریخ",
         "requestedDate": "درخواست کردہ تاریخ",
+        "supplierQuotation": "سپلائر کوٹیشن",
+        "supplierQuotationItem": "سپلائر کوٹیشن – آئٹم",
+        "supplierQuotationItems": "سپلائر کے قیمت نامے – آئٹم",
         "supplierQuotations": "سپلائر کے قیمت نامے"
     }
 }

@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "ചരക്ക് സ്വീകരണം",
+        "goodsReceiptItem": "ചരക്ക് സ്വീകരണം – ഇനം",
+        "goodsReceiptItems": "ചരക്ക് സ്വീകരണങ്ങൾ – ഇനം",
+        "goodsReceipts": "ചരക്ക് സ്വീകരണങ്ങൾ",
         "neededDate": "ആവശ്യമായ തീയതി",
         "orderDate": "ഓർഡർ തീയതി",
         "procurement": "സംഭരണം",
+        "purchaseOrder": "വാങ്ങൽ ഓർഡർ",
+        "purchaseOrderItem": "വാങ്ങൽ ഓർഡർ – ഇനം",
+        "purchaseOrderItems": "വാങ്ങൽ ഓർഡറുകൾ – ഇനം",
         "purchaseOrders": "വാങ്ങൽ ഓർഡറുകൾ",
         "purchaseRequest": "വാങ്ങൽ അഭ്യർത്ഥന",
+        "purchaseRequestItem": "വാങ്ങൽ അഭ്യർത്ഥന – ഇനം",
+        "purchaseRequestItems": "വാങ്ങൽ അഭ്യർത്ഥനകൾ – ഇനം",
         "purchaseRequests": "വാങ്ങൽ അഭ്യർത്ഥനകൾ",
         "quotationDate": "ക്വട്ടേഷൻ തീയതി",
         "requestedDate": "അഭ്യർത്ഥിച്ച തീയതി",
+        "supplierQuotation": "വിതരണക്കാരന്റെ ഉദ്ധരണി",
+        "supplierQuotationItem": "വിതരണക്കാരന്റെ ഉദ്ധരണി – ഇനം",
+        "supplierQuotationItems": "വിതരണക്കാരുടെ ക്വട്ടേഷനുകൾ – ഇനം",
         "supplierQuotations": "വിതരണക്കാരുടെ ക്വട്ടേഷനുകൾ"
     }
 }

@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "收货单",
+        "goodsReceiptItem": "收货单 – 项目",
+        "goodsReceiptItems": "收货单 – 项目",
+        "goodsReceipts": "收货单",
         "neededDate": "需求日期",
         "orderDate": "下单日期",
         "procurement": "采购",
+        "purchaseOrder": "采购订单",
+        "purchaseOrderItem": "采购订单 – 项目",
+        "purchaseOrderItems": "采购订单 – 项目",
         "purchaseOrders": "采购订单",
         "purchaseRequest": "采购申请",
+        "purchaseRequestItem": "采购申请 – 项目",
+        "purchaseRequestItems": "采购申请 – 项目",
         "purchaseRequests": "采购申请",
         "quotationDate": "报价日期",
         "requestedDate": "要求日期",
+        "supplierQuotation": "供应商报价",
+        "supplierQuotationItem": "供应商报价 – 项目",
+        "supplierQuotationItems": "供应商报价 – 项目",
         "supplierQuotations": "供应商报价"
     }
 }

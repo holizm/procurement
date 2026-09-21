@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Recepción de mercancías",
+        "goodsReceiptItem": "Recepción de mercancías – Artículo",
+        "goodsReceiptItems": "Recepciones de mercancías – Artículo",
+        "goodsReceipts": "Recepciones de mercancías",
         "neededDate": "Fecha de necesidad",
         "orderDate": "Fecha del pedido",
         "procurement": "Compras",
+        "purchaseOrder": "Orden de compra",
+        "purchaseOrderItem": "Orden de compra – Artículo",
+        "purchaseOrderItems": "Órdenes de compra – Artículo",
         "purchaseOrders": "Órdenes de compra",
         "purchaseRequest": "Solicitud de compra",
+        "purchaseRequestItem": "Solicitud de compra – Artículo",
+        "purchaseRequestItems": "Solicitudes de compra – Artículo",
         "purchaseRequests": "Solicitudes de compra",
         "quotationDate": "Fecha de cotización",
         "requestedDate": "Fecha solicitada",
+        "supplierQuotation": "Cotización del proveedor",
+        "supplierQuotationItem": "Cotización del proveedor – Artículo",
+        "supplierQuotationItems": "Cotizaciones de proveedores – Artículo",
         "supplierQuotations": "Cotizaciones de proveedores"
     }
 }

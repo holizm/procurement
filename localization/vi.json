@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Phiếu nhận hàng",
+        "goodsReceiptItem": "Phiếu nhận hàng – Mục",
+        "goodsReceiptItems": "Các phiếu nhận hàng – Mục",
+        "goodsReceipts": "Các phiếu nhận hàng",
         "neededDate": "Ngày cần hàng",
         "orderDate": "Ngày đặt hàng",
         "procurement": "Thu mua",
+        "purchaseOrder": "Đơn mua hàng",
+        "purchaseOrderItem": "Đơn mua hàng – Mục",
+        "purchaseOrderItems": "Đơn mua hàng – Mục",
         "purchaseOrders": "Đơn mua hàng",
         "purchaseRequest": "Yêu cầu mua hàng",
+        "purchaseRequestItem": "Yêu cầu mua hàng – Mục",
+        "purchaseRequestItems": "Yêu cầu mua hàng – Mục",
         "purchaseRequests": "Yêu cầu mua hàng",
         "quotationDate": "Ngày báo giá",
         "requestedDate": "Ngày yêu cầu",
+        "supplierQuotation": "Báo giá nhà cung cấp",
+        "supplierQuotationItem": "Báo giá nhà cung cấp – Mục",
+        "supplierQuotationItems": "Báo giá của nhà cung cấp – Mục",
         "supplierQuotations": "Báo giá của nhà cung cấp"
     }
 }

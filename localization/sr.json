@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Пријем робе",
+        "goodsReceiptItem": "Пријем робе – Stavka",
+        "goodsReceiptItems": "Пријеми робе – Stavka",
+        "goodsReceipts": "Пријеми робе",
         "neededDate": "Датум потребе",
         "orderDate": "Датум наруџбине",
         "procurement": "Набавка",
+        "purchaseOrder": "Наруџбеница",
+        "purchaseOrderItem": "Наруџбеница – Stavka",
+        "purchaseOrderItems": "Налози за куповину – Stavka",
         "purchaseOrders": "Налози за куповину",
         "purchaseRequest": "Захтев за набавку",
+        "purchaseRequestItem": "Захтев за набавку – Stavka",
+        "purchaseRequestItems": "Захтеви за набавку – Stavka",
         "purchaseRequests": "Захтеви за набавку",
         "quotationDate": "Датум понуде",
         "requestedDate": "Тражени датум",
+        "supplierQuotation": "Понуда добављача",
+        "supplierQuotationItem": "Понуда добављача – Stavka",
+        "supplierQuotationItems": "Понуде добављача – Stavka",
         "supplierQuotations": "Понуде добављача"
     }
 }

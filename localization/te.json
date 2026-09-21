@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "వస్తువుల స్వీకరణ",
+        "goodsReceiptItem": "వస్తువుల స్వీకరణ – అంశం",
+        "goodsReceiptItems": "వస్తువుల స్వీకరణలు – అంశం",
+        "goodsReceipts": "వస్తువుల స్వీకరణలు",
         "neededDate": "అవసరమైన తేదీ",
         "orderDate": "ఆర్డర్ తేదీ",
         "procurement": "సేకరణ",
+        "purchaseOrder": "కొనుగోలు ఆదేశం",
+        "purchaseOrderItem": "కొనుగోలు ఆదేశం – అంశం",
+        "purchaseOrderItems": "కొనుగోలు ఆర్డర్లు – అంశం",
         "purchaseOrders": "కొనుగోలు ఆర్డర్లు",
         "purchaseRequest": "కొనుగోలు అభ్యర్థన",
+        "purchaseRequestItem": "కొనుగోలు అభ్యర్థన – అంశం",
+        "purchaseRequestItems": "కొనుగోలు అభ్యర్థనలు – అంశం",
         "purchaseRequests": "కొనుగోలు అభ్యర్థనలు",
         "quotationDate": "కొటేషన్ తేదీ",
         "requestedDate": "అభ్యర్థించిన తేదీ",
+        "supplierQuotation": "సరఫరాదారు కొటేషన్",
+        "supplierQuotationItem": "సరఫరాదారు కొటేషన్ – అంశం",
+        "supplierQuotationItems": "సరఫరాదారు కొటేషన్లు – అంశం",
         "supplierQuotations": "సరఫరాదారు కొటేషన్లు"
     }
 }

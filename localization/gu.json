@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "માલની રસીદ",
+        "goodsReceiptItem": "માલની રસીદ – આઇટમ",
+        "goodsReceiptItems": "માલની રસીદો – આઇટમ",
+        "goodsReceipts": "માલની રસીદો",
         "neededDate": "જરૂરી તારીખ",
         "orderDate": "ઓર્ડરની તારીખ",
         "procurement": "ખરીદી વ્યવસ્થાપન",
+        "purchaseOrder": "ખરીદી ઓર્ડર",
+        "purchaseOrderItem": "ખરીદી ઓર્ડર – આઇટમ",
+        "purchaseOrderItems": "ખરીદી ઓર્ડરો – આઇટમ",
         "purchaseOrders": "ખરીદી ઓર્ડરો",
         "purchaseRequest": "ખરીદી વિનંતી",
+        "purchaseRequestItem": "ખરીદી વિનંતી – આઇટમ",
+        "purchaseRequestItems": "ખરીદી વિનંતીઓ – આઇટમ",
         "purchaseRequests": "ખરીદી વિનંતીઓ",
         "quotationDate": "ભાવપત્રકની તારીખ",
         "requestedDate": "વિનંતી કરેલી તારીખ",
+        "supplierQuotation": "સપ્લાયર ભાવપત્રક",
+        "supplierQuotationItem": "સપ્લાયર ભાવપત્રક – આઇટમ",
+        "supplierQuotationItems": "સપ્લાયરનાં ભાવપત્રકો – આઇટમ",
         "supplierQuotations": "સપ્લાયરનાં ભાવપત્રકો"
     }
 }

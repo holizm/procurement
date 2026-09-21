@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Upokeaji wa bidhaa",
+        "goodsReceiptItem": "Upokeaji wa bidhaa – Kipengee",
+        "goodsReceiptItems": "Upokeaji wa bidhaa – Kipengee",
+        "goodsReceipts": "Upokeaji wa bidhaa",
         "neededDate": "Tarehe inayohitajika",
         "orderDate": "Tarehe ya agizo",
         "procurement": "Ununuzi",
+        "purchaseOrder": "Agizo la ununuzi",
+        "purchaseOrderItem": "Agizo la ununuzi – Kipengee",
+        "purchaseOrderItems": "Maagizo ya ununuzi – Kipengee",
         "purchaseOrders": "Maagizo ya ununuzi",
         "purchaseRequest": "Ombi la ununuzi",
+        "purchaseRequestItem": "Ombi la ununuzi – Kipengee",
+        "purchaseRequestItems": "Maombi ya ununuzi – Kipengee",
         "purchaseRequests": "Maombi ya ununuzi",
         "quotationDate": "Tarehe ya nukuu ya bei",
         "requestedDate": "Tarehe iliyoombwa",
+        "supplierQuotation": "Nukuu ya msambazaji",
+        "supplierQuotationItem": "Nukuu ya msambazaji – Kipengee",
+        "supplierQuotationItems": "Nukuu za bei za wasambazaji – Kipengee",
         "supplierQuotations": "Nukuu za bei za wasambazaji"
     }
 }

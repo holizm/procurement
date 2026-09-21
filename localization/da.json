@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Varemodtagelse",
+        "goodsReceiptItem": "Varemodtagelse – Element",
+        "goodsReceiptItems": "Varemodtagelser – Element",
+        "goodsReceipts": "Varemodtagelser",
         "neededDate": "Behovsdato",
         "orderDate": "Bestillingsdato",
         "procurement": "Indkøb",
+        "purchaseOrder": "Indkøbsordre",
+        "purchaseOrderItem": "Indkøbsordre – Element",
+        "purchaseOrderItems": "Indkøbsordrer – Element",
         "purchaseOrders": "Indkøbsordrer",
         "purchaseRequest": "Indkøbsanmodning",
+        "purchaseRequestItem": "Indkøbsanmodning – Element",
+        "purchaseRequestItems": "Indkøbsanmodninger – Element",
         "purchaseRequests": "Indkøbsanmodninger",
         "quotationDate": "Tilbudsdato",
         "requestedDate": "Ønsket dato",
+        "supplierQuotation": "Leverandørtilbud",
+        "supplierQuotationItem": "Leverandørtilbud – Element",
+        "supplierQuotationItems": "Leverandørtilbud – Element",
         "supplierQuotations": "Leverandørtilbud"
     }
 }

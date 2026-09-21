@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Karɓar kaya",
+        "goodsReceiptItem": "Karɓar kaya – Abu",
+        "goodsReceiptItems": "Karɓar kayayyaki – Abu",
+        "goodsReceipts": "Karɓar kayayyaki",
         "neededDate": "Ranar da ake buƙata",
         "orderDate": "Ranar oda",
         "procurement": "Saye da samarwa",
+        "purchaseOrder": "Umarnin saye",
+        "purchaseOrderItem": "Umarnin saye – Abu",
+        "purchaseOrderItems": "Odar saye – Abu",
         "purchaseOrders": "Odar saye",
         "purchaseRequest": "Buƙatar saye",
+        "purchaseRequestItem": "Buƙatar saye – Abu",
+        "purchaseRequestItems": "Buƙatun saye – Abu",
         "purchaseRequests": "Buƙatun saye",
         "quotationDate": "Ranar tayin farashi",
         "requestedDate": "Ranar da aka nema",
+        "supplierQuotation": "Bayani farashin mai kaya",
+        "supplierQuotationItem": "Bayani farashin mai kaya – Abu",
+        "supplierQuotationItems": "Tayin farashi na masu kaya – Abu",
         "supplierQuotations": "Tayin farashi na masu kaya"
     }
 }

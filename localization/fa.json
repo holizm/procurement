@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "رسید کالا",
+        "goodsReceiptItem": "رسید کالا – مورد",
+        "goodsReceiptItems": "رسیدهای کالا – مورد",
+        "goodsReceipts": "رسیدهای کالا",
         "neededDate": "تاریخ نیاز",
         "orderDate": "تاریخ سفارش",
         "procurement": "تدارکات",
+        "purchaseOrder": "سفارش خرید",
+        "purchaseOrderItem": "سفارش خرید – مورد",
+        "purchaseOrderItems": "سفارش‌های خرید – مورد",
         "purchaseOrders": "سفارش‌های خرید",
         "purchaseRequest": "درخواست خرید",
+        "purchaseRequestItem": "درخواست خرید – مورد",
+        "purchaseRequestItems": "درخواست‌های خرید – مورد",
         "purchaseRequests": "درخواست‌های خرید",
         "quotationDate": "تاریخ پیشنهاد قیمت",
         "requestedDate": "تاریخ درخواست",
+        "supplierQuotation": "پیش‌فاکتور تأمین‌کننده",
+        "supplierQuotationItem": "پیش‌فاکتور تأمین‌کننده – مورد",
+        "supplierQuotationItems": "پیشنهادهای قیمت تأمین‌کنندگان – مورد",
         "supplierQuotations": "پیشنهادهای قیمت تأمین‌کنندگان"
     }
 }

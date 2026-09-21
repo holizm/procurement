@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "माल प्राप्ति",
+        "goodsReceiptItem": "माल प्राप्ति – आइटम",
+        "goodsReceiptItems": "माल प्राप्तियाँ – आइटम",
+        "goodsReceipts": "माल प्राप्तियाँ",
         "neededDate": "आवश्यकता की तारीख",
         "orderDate": "ऑर्डर की तारीख",
         "procurement": "खरीद प्रबंधन",
+        "purchaseOrder": "क्रय आदेश",
+        "purchaseOrderItem": "क्रय आदेश – आइटम",
+        "purchaseOrderItems": "क्रय आदेश – आइटम",
         "purchaseOrders": "क्रय आदेश",
         "purchaseRequest": "क्रय अनुरोध",
+        "purchaseRequestItem": "क्रय अनुरोध – आइटम",
+        "purchaseRequestItems": "क्रय अनुरोध – आइटम",
         "purchaseRequests": "क्रय अनुरोध",
         "quotationDate": "कोटेशन की तारीख",
         "requestedDate": "अनुरोधित तारीख",
+        "supplierQuotation": "आपूर्तिकर्ता कोटेशन",
+        "supplierQuotationItem": "आपूर्तिकर्ता कोटेशन – आइटम",
+        "supplierQuotationItems": "आपूर्तिकर्ता कोटेशन – आइटम",
         "supplierQuotations": "आपूर्तिकर्ता कोटेशन"
     }
 }

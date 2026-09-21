@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "入荷",
+        "goodsReceiptItem": "入荷 – 項目",
+        "goodsReceiptItems": "入荷 – 項目",
+        "goodsReceipts": "入荷",
         "neededDate": "必要日",
         "orderDate": "発注日",
         "procurement": "調達",
+        "purchaseOrder": "発注書",
+        "purchaseOrderItem": "発注書 – 項目",
+        "purchaseOrderItems": "発注書 – 項目",
         "purchaseOrders": "発注書",
         "purchaseRequest": "購買申請",
+        "purchaseRequestItem": "購買申請 – 項目",
+        "purchaseRequestItems": "購買申請 – 項目",
         "purchaseRequests": "購買申請",
         "quotationDate": "見積日",
         "requestedDate": "希望日",
+        "supplierQuotation": "仕入先見積",
+        "supplierQuotationItem": "仕入先見積 – 項目",
+        "supplierQuotationItems": "仕入先見積書 – 項目",
         "supplierQuotations": "仕入先見積書"
     }
 }

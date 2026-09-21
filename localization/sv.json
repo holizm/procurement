@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Varumottagning",
+        "goodsReceiptItem": "Varumottagning – Objekt",
+        "goodsReceiptItems": "Varumottagningar – Objekt",
+        "goodsReceipts": "Varumottagningar",
         "neededDate": "Behovsdatum",
         "orderDate": "Beställningsdatum",
         "procurement": "Inköp",
+        "purchaseOrder": "Inköpsorder",
+        "purchaseOrderItem": "Inköpsorder – Objekt",
+        "purchaseOrderItems": "Inköpsordrar – Objekt",
         "purchaseOrders": "Inköpsordrar",
         "purchaseRequest": "Inköpsbegäran",
+        "purchaseRequestItem": "Inköpsbegäran – Objekt",
+        "purchaseRequestItems": "Inköpsbegäranden – Objekt",
         "purchaseRequests": "Inköpsbegäranden",
         "quotationDate": "Offertdatum",
         "requestedDate": "Önskat datum",
+        "supplierQuotation": "Leverantörsoffert",
+        "supplierQuotationItem": "Leverantörsoffert – Objekt",
+        "supplierQuotationItems": "Leverantörsofferter – Objekt",
         "supplierQuotations": "Leverantörsofferter"
     }
 }

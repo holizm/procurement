@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Árubeérkezés",
+        "goodsReceiptItem": "Árubeérkezés – Elem",
+        "goodsReceiptItems": "Árubeérkezések – Elem",
+        "goodsReceipts": "Árubeérkezések",
         "neededDate": "Szükséglet dátuma",
         "orderDate": "Rendelés dátuma",
         "procurement": "Beszerzés",
+        "purchaseOrder": "Beszerzési rendelés",
+        "purchaseOrderItem": "Beszerzési rendelés – Elem",
+        "purchaseOrderItems": "Beszerzési rendelések – Elem",
         "purchaseOrders": "Beszerzési rendelések",
         "purchaseRequest": "Beszerzési igény",
+        "purchaseRequestItem": "Beszerzési igény – Elem",
+        "purchaseRequestItems": "Beszerzési igények – Elem",
         "purchaseRequests": "Beszerzési igények",
         "quotationDate": "Ajánlat dátuma",
         "requestedDate": "Kért dátum",
+        "supplierQuotation": "Szállítói ajánlat",
+        "supplierQuotationItem": "Szállítói ajánlat – Elem",
+        "supplierQuotationItems": "Beszállítói ajánlatok – Elem",
         "supplierQuotations": "Beszállítói ajánlatok"
     }
 }

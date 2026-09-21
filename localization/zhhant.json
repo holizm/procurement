@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "收貨單",
+        "goodsReceiptItem": "收貨單 – 項目",
+        "goodsReceiptItems": "收貨單 – 項目",
+        "goodsReceipts": "收貨單",
         "neededDate": "需求日期",
         "orderDate": "下單日期",
         "procurement": "採購",
+        "purchaseOrder": "採購訂單",
+        "purchaseOrderItem": "採購訂單 – 項目",
+        "purchaseOrderItems": "採購訂單 – 項目",
         "purchaseOrders": "採購訂單",
         "purchaseRequest": "採購申請",
+        "purchaseRequestItem": "採購申請 – 項目",
+        "purchaseRequestItems": "採購申請 – 項目",
         "purchaseRequests": "採購申請",
         "quotationDate": "報價日期",
         "requestedDate": "要求日期",
+        "supplierQuotation": "供應商報價",
+        "supplierQuotationItem": "供應商報價 – 項目",
+        "supplierQuotationItems": "供應商報價 – 項目",
         "supplierQuotations": "供應商報價"
     }
 }

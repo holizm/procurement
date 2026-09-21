@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Recepție de mărfuri",
+        "goodsReceiptItem": "Recepție de mărfuri – Element",
+        "goodsReceiptItems": "Recepții de mărfuri – Element",
+        "goodsReceipts": "Recepții de mărfuri",
         "neededDate": "Data necesară",
         "orderDate": "Data comenzii",
         "procurement": "Achiziții",
+        "purchaseOrder": "Comandă de achiziție",
+        "purchaseOrderItem": "Comandă de achiziție – Element",
+        "purchaseOrderItems": "Comenzi de achiziție – Element",
         "purchaseOrders": "Comenzi de achiziție",
         "purchaseRequest": "Cerere de achiziție",
+        "purchaseRequestItem": "Cerere de achiziție – Element",
+        "purchaseRequestItems": "Cereri de achiziție – Element",
         "purchaseRequests": "Cereri de achiziție",
         "quotationDate": "Data ofertei",
         "requestedDate": "Data solicitată",
+        "supplierQuotation": "Ofertă furnizor",
+        "supplierQuotationItem": "Ofertă furnizor – Element",
+        "supplierQuotationItems": "Oferte de la furnizori – Element",
         "supplierQuotations": "Oferte de la furnizori"
     }
 }

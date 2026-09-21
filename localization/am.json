@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "የእቃ ደረሰኝ",
+        "goodsReceiptItem": "የእቃ ደረሰኝ – ንጥል",
+        "goodsReceiptItems": "የእቃ ደረሰኞች – ንጥል",
+        "goodsReceipts": "የእቃ ደረሰኞች",
         "neededDate": "የሚያስፈልግበት ቀን",
         "orderDate": "የትዕዛዝ ቀን",
         "procurement": "ግዥ",
+        "purchaseOrder": "የግዢ ትዕዛዝ",
+        "purchaseOrderItem": "የግዢ ትዕዛዝ – ንጥል",
+        "purchaseOrderItems": "የግዥ ትዕዛዞች – ንጥል",
         "purchaseOrders": "የግዥ ትዕዛዞች",
         "purchaseRequest": "የግዥ ጥያቄ",
+        "purchaseRequestItem": "የግዥ ጥያቄ – ንጥል",
+        "purchaseRequestItems": "የግዥ ጥያቄዎች – ንጥል",
         "purchaseRequests": "የግዥ ጥያቄዎች",
         "quotationDate": "የዋጋ ማቅረቢያ ቀን",
         "requestedDate": "የተጠየቀው ቀን",
+        "supplierQuotation": "የአቅራቢ ዋጋ ማቅረቢያ",
+        "supplierQuotationItem": "የአቅራቢ ዋጋ ማቅረቢያ – ንጥል",
+        "supplierQuotationItems": "የአቅራቢዎች የዋጋ ማቅረቢያዎች – ንጥል",
         "supplierQuotations": "የአቅራቢዎች የዋጋ ማቅረቢያዎች"
     }
 }

@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "استلام بضائع",
+        "goodsReceiptItem": "استلام بضائع – عنصر",
+        "goodsReceiptItems": "إيصالات البضائع – عنصر",
+        "goodsReceipts": "إيصالات البضائع",
         "neededDate": "تاريخ الاحتياج",
         "orderDate": "تاريخ الطلب",
         "procurement": "المشتريات",
+        "purchaseOrder": "أمر شراء",
+        "purchaseOrderItem": "أمر شراء – عنصر",
+        "purchaseOrderItems": "أوامر الشراء – عنصر",
         "purchaseOrders": "أوامر الشراء",
         "purchaseRequest": "طلب شراء",
+        "purchaseRequestItem": "طلب شراء – عنصر",
+        "purchaseRequestItems": "طلبات الشراء – عنصر",
         "purchaseRequests": "طلبات الشراء",
         "quotationDate": "تاريخ عرض السعر",
         "requestedDate": "التاريخ المطلوب",
+        "supplierQuotation": "عرض سعر المورد",
+        "supplierQuotationItem": "عرض سعر المورد – عنصر",
+        "supplierQuotationItems": "عروض أسعار الموردين – عنصر",
         "supplierQuotations": "عروض أسعار الموردين"
     }
 }

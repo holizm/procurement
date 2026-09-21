@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Goods receipt",
+        "goodsReceiptItem": "Goods receipt – Item",
+        "goodsReceiptItems": "Goods receipts – Item",
+        "goodsReceipts": "Goods receipts",
         "neededDate": "Needed date",
         "orderDate": "Order date",
         "procurement": "Procurement",
+        "purchaseOrder": "Purchase order",
+        "purchaseOrderItem": "Purchase order – Item",
+        "purchaseOrderItems": "Purchase orders – Item",
         "purchaseOrders": "Purchase orders",
         "purchaseRequest": "Purchase request",
+        "purchaseRequestItem": "Purchase request – Item",
+        "purchaseRequestItems": "Purchase requests – Item",
         "purchaseRequests": "Purchase requests",
         "quotationDate": "Quotation date",
         "requestedDate": "Requested date",
+        "supplierQuotation": "Supplier quotation",
+        "supplierQuotationItem": "Supplier quotation – Item",
+        "supplierQuotationItems": "Supplier quotations – Item",
         "supplierQuotations": "Supplier quotations"
     }
 }

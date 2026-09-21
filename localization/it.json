@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Ricevimento merci",
+        "goodsReceiptItem": "Ricevimento merci – Elemento",
+        "goodsReceiptItems": "Ricevimenti merci – Elemento",
+        "goodsReceipts": "Ricevimenti merci",
         "neededDate": "Data di necessità",
         "orderDate": "Data dell’ordine",
         "procurement": "Approvvigionamento",
+        "purchaseOrder": "Ordine di acquisto",
+        "purchaseOrderItem": "Ordine di acquisto – Elemento",
+        "purchaseOrderItems": "Ordini di acquisto – Elemento",
         "purchaseOrders": "Ordini di acquisto",
         "purchaseRequest": "Richiesta di acquisto",
+        "purchaseRequestItem": "Richiesta di acquisto – Elemento",
+        "purchaseRequestItems": "Richieste di acquisto – Elemento",
         "purchaseRequests": "Richieste di acquisto",
         "quotationDate": "Data del preventivo",
         "requestedDate": "Data richiesta",
+        "supplierQuotation": "Preventivo del fornitore",
+        "supplierQuotationItem": "Preventivo del fornitore – Elemento",
+        "supplierQuotationItems": "Preventivi dei fornitori – Elemento",
         "supplierQuotations": "Preventivi dei fornitori"
     }
 }

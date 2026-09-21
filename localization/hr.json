@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Primitak robe",
+        "goodsReceiptItem": "Primitak robe – Stavka",
+        "goodsReceiptItems": "Primici robe – Stavka",
+        "goodsReceipts": "Primici robe",
         "neededDate": "Datum potrebe",
         "orderDate": "Datum narudžbe",
         "procurement": "Nabava",
+        "purchaseOrder": "Narudžbenica",
+        "purchaseOrderItem": "Narudžbenica – Stavka",
+        "purchaseOrderItems": "Narudžbenice – Stavka",
         "purchaseOrders": "Narudžbenice",
         "purchaseRequest": "Zahtjev za nabavu",
+        "purchaseRequestItem": "Zahtjev za nabavu – Stavka",
+        "purchaseRequestItems": "Zahtjevi za nabavu – Stavka",
         "purchaseRequests": "Zahtjevi za nabavu",
         "quotationDate": "Datum ponude",
         "requestedDate": "Traženi datum",
+        "supplierQuotation": "Ponuda dobavljača",
+        "supplierQuotationItem": "Ponuda dobavljača – Stavka",
+        "supplierQuotationItems": "Ponude dobavljača – Stavka",
         "supplierQuotations": "Ponude dobavljača"
     }
 }

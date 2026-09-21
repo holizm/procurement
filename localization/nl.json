@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "Goederenontvangst",
+        "goodsReceiptItem": "Goederenontvangst – Item",
+        "goodsReceiptItems": "Goederenontvangsten – Item",
+        "goodsReceipts": "Goederenontvangsten",
         "neededDate": "Benodigde datum",
         "orderDate": "Besteldatum",
         "procurement": "Inkoop",
+        "purchaseOrder": "Inkooporder",
+        "purchaseOrderItem": "Inkooporder – Item",
+        "purchaseOrderItems": "Inkooporders – Item",
         "purchaseOrders": "Inkooporders",
         "purchaseRequest": "Inkoopaanvraag",
+        "purchaseRequestItem": "Inkoopaanvraag – Item",
+        "purchaseRequestItems": "Inkoopaanvragen – Item",
         "purchaseRequests": "Inkoopaanvragen",
         "quotationDate": "Offertedatum",
         "requestedDate": "Gevraagde datum",
+        "supplierQuotation": "Leveranciersofferte",
+        "supplierQuotationItem": "Leveranciersofferte – Item",
+        "supplierQuotationItems": "Leveranciersoffertes – Item",
         "supplierQuotations": "Leveranciersoffertes"
     }
 }

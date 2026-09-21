@@ -1,13 +1,25 @@
 {
     "common": {
+        "goodsReceipt": "माल प्राप्ती",
+        "goodsReceiptItem": "माल प्राप्ती – घटक",
+        "goodsReceiptItems": "माल प्राप्ती – घटक",
+        "goodsReceipts": "माल प्राप्ती",
         "neededDate": "आवश्यक तारीख",
         "orderDate": "ऑर्डरची तारीख",
         "procurement": "खरेदी व्यवस्थापन",
+        "purchaseOrder": "खरेदी आदेश",
+        "purchaseOrderItem": "खरेदी आदेश – घटक",
+        "purchaseOrderItems": "खरेदी आदेश – घटक",
         "purchaseOrders": "खरेदी आदेश",
         "purchaseRequest": "खरेदी विनंती",
+        "purchaseRequestItem": "खरेदी विनंती – घटक",
+        "purchaseRequestItems": "खरेदी विनंत्या – घटक",
         "purchaseRequests": "खरेदी विनंत्या",
         "quotationDate": "दरपत्रकाची तारीख",
         "requestedDate": "विनंती केलेली तारीख",
+        "supplierQuotation": "पुरवठादार कोटेशन",
+        "supplierQuotationItem": "पुरवठादार कोटेशन – घटक",
+        "supplierQuotationItems": "पुरवठादारांची दरपत्रके – घटक",
         "supplierQuotations": "पुरवठादारांची दरपत्रके"
     }
 }
