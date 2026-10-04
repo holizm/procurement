@@ -10,19 +10,14 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <DateTime
-        placeholder='requestedDate'
-        property='requestedDate'
+        requestedDate
         required
     />
-    <DateTime
-        placeholder='neededDate'
-        property='neededDate'
-    />
+    <DateTime neededDate />
     <Select
         options={[
             'draft',
@@ -33,13 +28,10 @@ const inputs = <>
             'cancelled',
         ]}
         placeholder='state'
-        property='purchaseRequestStatus'
+        purchaseRequestStatus
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

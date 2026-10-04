@@ -8,18 +8,15 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <Text
-        placeholder='supplier'
-        property='supplier'
         required
+        supplier
     />
     <DateTime
-        placeholder='quotationDate'
-        property='quotationDate'
+        quotationDate
         required
     />
     <Select
@@ -30,13 +27,12 @@ const inputs = <>
             'expired',
         ]}
         placeholder='state'
-        property='supplierQuotationStatus'
         required
+        supplierQuotationStatus
     />
     <Numeric
-        placeholder='total'
-        property='total'
         required
+        total
     />
 </>
 
