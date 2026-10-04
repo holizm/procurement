@@ -8,17 +8,17 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='procurementNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='procurementSupplier'
+        placeholder='supplier'
         property='supplier'
         required
     />
     <DateTime
-        placeholder='procurementOrderDate'
+        placeholder='orderDate'
         property='orderDate'
         required
     />
@@ -30,12 +30,12 @@ const inputs = <>
             'received',
             'cancelled',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='purchaseOrderStatus'
         required
     />
     <Numeric
-        placeholder='coreTotal'
+        placeholder='total'
         property='total'
         required
     />

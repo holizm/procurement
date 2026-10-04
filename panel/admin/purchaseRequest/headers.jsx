@@ -1,6 +1,6 @@
 export default <>
-    <th start>procurementPurchaseRequest</th>
-    <th>procurementNumber</th>
-    <th>procurementRequestedDate</th>
-    <th>stateMachinesState</th>
+    <th start>purchaseRequest</th>
+    <th>number</th>
+    <th>requestedDate</th>
+    <th>state</th>
 </>

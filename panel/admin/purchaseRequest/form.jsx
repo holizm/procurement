@@ -10,17 +10,17 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='procurementNumber'
+        placeholder='number'
         property='number'
         required
     />
     <DateTime
-        placeholder='procurementRequestedDate'
+        placeholder='requestedDate'
         property='requestedDate'
         required
     />
     <DateTime
-        placeholder='procurementNeededDate'
+        placeholder='neededDate'
         property='neededDate'
     />
     <Select
@@ -32,12 +32,12 @@ const inputs = <>
             'ordered',
             'cancelled',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='purchaseRequestStatus'
         required
     />
     <LongText
-        placeholder='procurementDescription'
+        placeholder='description'
         property='description'
     />
 </>

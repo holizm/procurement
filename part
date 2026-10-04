@@ -24,6 +24,8 @@ purchaseRequest
     purchaseRequestStatus
     description optional
     unique number
+    uses
+        stateMachines
 purchaseRequestItem
     purchaseRequest
     item
@@ -39,6 +41,8 @@ supplierQuotation
     total realNumber
     currency
     unique supplier number
+    uses
+        stateMachines
 supplierQuotationItem
     supplierQuotation
     purchaseRequestItem
@@ -54,6 +58,8 @@ purchaseOrder
     total realNumber
     currency
     unique number
+    uses
+        stateMachines
 purchaseOrderItem
     purchaseOrder
     item

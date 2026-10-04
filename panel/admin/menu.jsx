@@ -3,19 +3,19 @@ export default [
         children: [
             {
                 path: '/procurement/purchaseRequest/list',
-                title: 'procurementPurchaseRequests',
+                title: 'purchaseRequests',
             },
             {
                 path: '/procurement/supplierQuotation/list',
-                title: 'procurementSupplierQuotations',
+                title: 'supplierQuotations',
             },
             {
                 path: '/procurement/purchaseOrder/list',
-                title: 'procurementPurchaseOrders',
+                title: 'purchaseOrders',
             },
         ],
         icon: 'shoppingCartCheckout',
         path: '/procurement',
-        title: 'procurementProcurement',
+        title: 'procurement',
     },
 ]
