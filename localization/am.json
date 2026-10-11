@@ -1,9 +1,9 @@
 {
     "common": {
-        "goodsReceipt": "የእቃ ደረሰኝ",
+        "goodsReceipt": "የእቃ መቀበያ",
         "goodsReceiptItem": "የእቃ ደረሰኝ – ንጥል",
         "goodsReceiptItems": "የእቃ ደረሰኞች – ንጥል",
-        "goodsReceipts": "የእቃ ደረሰኞች",
+        "goodsReceipts": "የእቃ መቀበያዎች",
         "neededDate": "የሚያስፈልግበት ቀን",
         "orderDate": "የትዕዛዝ ቀን",
         "procurement": "ግዥ",

@@ -17,8 +17,8 @@
         "purchaseRequests": "ဝယ်ယူရန်တောင်းဆိုချက်များ",
         "quotationDate": "ဈေးနှုန်းကမ်းလှမ်းသည့်ရက်",
         "requestedDate": "တောင်းဆိုထားသည့်ရက်",
-        "supplierQuotation": "ပေးသွင်းသူ ဈေးနှုန်း",
-        "supplierQuotationItem": "ပေးသွင်းသူ ဈေးနှုန်း – အရာ",
+        "supplierQuotation": "ပေးသွင်းသူ၏ ဈေးနှုန်းကမ်းလှမ်းချက်",
+        "supplierQuotationItem": "ပေးသွင်းသူ၏ ဈေးနှုန်းကမ်းလှမ်းချက် – အရာ",
         "supplierQuotationItems": "ကုန်ပစ္စည်းပေးသွင်းသူ၏ ဈေးနှုန်းကမ်းလှမ်းချက်များ – အရာ",
         "supplierQuotations": "ကုန်ပစ္စည်းပေးသွင်းသူ၏ ဈေးနှုန်းကမ်းလှမ်းချက်များ"
     }

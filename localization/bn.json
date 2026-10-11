@@ -17,9 +17,9 @@
         "purchaseRequests": "ক্রয় অনুরোধসমূহ",
         "quotationDate": "দরপত্রের তারিখ",
         "requestedDate": "অনুরোধকৃত তারিখ",
-        "supplierQuotation": "সরবরাহকারীর উদ্ধৃতি",
-        "supplierQuotationItem": "সরবরাহকারীর উদ্ধৃতি – আইটেম",
-        "supplierQuotationItems": "সরবরাহকারীর দরপত্রসমূহ – আইটেম",
-        "supplierQuotations": "সরবরাহকারীর দরপত্রসমূহ"
+        "supplierQuotation": "সরবরাহকারীর মূল্যপ্রস্তাব",
+        "supplierQuotationItem": "সরবরাহকারীর মূল্যপ্রস্তাব – আইটেম",
+        "supplierQuotationItems": "সরবরাহকারীদের মূল্যপ্রস্তাব – আইটেম",
+        "supplierQuotations": "সরবরাহকারীদের মূল্যপ্রস্তাব"
     }
 }
